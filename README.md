@@ -47,6 +47,21 @@ A lightweight PHP-based inventory management system for managing spare parts, st
 
 ---
 
+
+![image](https://github.com/user-attachments/assets/3d580a24-8a73-4ce7-95f7-6d252f0b2896)
+
+![image](https://github.com/user-attachments/assets/3d4b4f47-a34c-4240-b791-4770234c2991)
+
+![image](https://github.com/user-attachments/assets/127fc775-3115-483e-8f93-000346655a85)
+
+![image](https://github.com/user-attachments/assets/291450ca-4c87-401e-911b-56a846df3733)
+
+
+![image](https://github.com/user-attachments/assets/17d46379-545d-46c6-ad4d-cb3b8e375b97)
+
+
+![image](https://github.com/user-attachments/assets/4c739a06-79d2-43bd-8a5a-bb41bed616ce)
+
 ## 📦 Installation
 
 1. **Clone the Repository**
